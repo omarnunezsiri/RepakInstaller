@@ -15,7 +15,7 @@ I automate pretty much everything on my end, and since I use Repak-X across mult
 Paste this into PowerShell and you're done:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -c "irm https://raw.githubusercontent.com/omarnunezsiri/Install-RepakX/main/Install-RepakX.ps1 | iex"
+powershell -ExecutionPolicy Bypass -c "irm https://raw.githubusercontent.com/omarnunezsiri/RepakInstaller/master/Install-RepakX.ps1 | iex"
 ```
 
 ## Thanks
